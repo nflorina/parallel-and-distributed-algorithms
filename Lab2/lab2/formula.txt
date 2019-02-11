@@ -1,0 +1,2 @@
+Start = ceil(N/P)*Tid
+End = min(ceil(N/P) *(Tid+1),N)
